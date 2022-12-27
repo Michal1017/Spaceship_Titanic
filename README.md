@@ -1,2 +1,4 @@
 # Spaceship_Titanic
- Project to learn machine learning skills
+ Project which can help improve machine learning skills. 
+ 
+Project predict which memeber of space ship will land on which planet after anomaly based on information about passengers.
